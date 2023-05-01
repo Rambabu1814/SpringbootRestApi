@@ -11,7 +11,7 @@ import com.company.Model.Product;
 import com.company.Service.ProductService;
 
 @RestController
-@RequestMapping("/product")
+@RequestMapping("/Rambabu")
 public class ProductController {
     @Autowired
 	ProductService productservice;
